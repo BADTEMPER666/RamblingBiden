@@ -1,2 +1,3 @@
-# RamblingBiden
+# Rambling Biden
 This is the public source code for Rambling Biden Twitter bot!
+
